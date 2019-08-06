@@ -23,10 +23,12 @@ git clone https://github.com/JCSDA/py-ncepbufr.git
 pip install py-ncepbufr
 ```
 
-## Use it
+## Use
 
 Update the following two variables in importbufr.py
 ```
 filename='../test/b001/xx102' #Complete path of the dataset location and filename
 varname='SGWH' #Variable name to be imported; user can define more than one but they should belong to the same replication.
 ```
+
+The imported data are in the dictionary "values". The keys of the dictionary are longitude, latitude, date, and the mnemonics at "varname".
