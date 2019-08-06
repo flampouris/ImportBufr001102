@@ -33,4 +33,9 @@ filename='../test/b001/xx102' #Complete path of the dataset location and filenam
 varname='SGWH' #Variable name to be imported; user can define more than one but they should belong to the same replication.
 ```
 
-The imported data are in the dictionary "values". The keys of the dictionary are longitude, latitude, date, and the mnemonics at "varname".
+The imported data are in the dictionary "values". The keys of the dictionary are *longitude*, *latitude*, *date*, and the *mnemonics* at "varname".
+
+
+Lisence Latest Version of GNU
+Copyright (C) 2018 Flampouris 
+Washington, DC, USA, Earth
