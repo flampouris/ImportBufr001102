@@ -1,4 +1,5 @@
-# ImportBufr001102
+# Import observations from Bufr 001/xx102 of NCEP's observations tanks
+
 Sandbox for importing bufr observations from tank 001/xx102 of NCEP
 
 ## Installation
