@@ -34,9 +34,3 @@ varname='SGWH' #Variable name to be imported; user can define more than one but 
 ```
 
 The imported data are in the dictionary "values". The keys of the dictionary are *longitude*, *latitude*, *date*, and the *mnemonics* at "varname".
-
-
-### Lisence
-Latest Version of GNU
-Copyright (C) 2018 Flampouris 
-Washington, DC, USA, Earth
